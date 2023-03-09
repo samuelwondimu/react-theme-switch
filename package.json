@@ -1,0 +1,18 @@
+{
+  "name": "react-theme-switch",
+  "version": "1.0.0",
+  "description": "switch theme",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samuel wondimu",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.79.1",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "tslib": "^2.5.0",
+    "typescript": "^4.9.5"
+  }
+}
